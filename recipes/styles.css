@@ -1,0 +1,15 @@
+h1{background-color: black;
+color: purple;
+text-align: center;
+font-size: 50px;
+font-family: 'Times New Roman', Times, serif;}
+img{
+    height: auto;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+div{background-color: black;
+color: purple;}
+
